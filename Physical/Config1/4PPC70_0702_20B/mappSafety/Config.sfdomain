@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio FileVersion="4.9"?>
+<Configuration>
+  <Element ID="gSafeDomain_1" Type="sfdomain">
+    <Group ID="DefaultSettings">
+      <Property ID="SafeDomain" Value="1" />
+      <Property ID="Password" Value="cd1fce5526615c487a3d68bac35c7d0c" />
+      <Property ID="SafeProject" Value="1st_testSTEPPER_SFL3" />
+    </Group>
+    <Group ID="DefaultFiles">
+      <Property ID="TargetApplication" Value="1st_testSTEPPER_SFL3.sfapp" />
+    </Group>
+  </Element>
+</Configuration>

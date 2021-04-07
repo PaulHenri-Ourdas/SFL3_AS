@@ -1,0 +1,4 @@
+VAR
+	MpCnc3axis_0 : MpCnc3Axis;
+	CncParameters : MpCnc3AxisParType;
+END_VAR
