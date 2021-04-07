@@ -28,7 +28,7 @@
         <Classification Type="VendorSpecific">Safe</Classification>
         <Classification Type="VendorSpecific">IO</Classification>
         <Classification Type="VendorSpecific">Combined</Classification>
-        <Info Name="Interface" Value="IF1.ST1.IF1.ST2" />
+        <Info Name="Interface" Value="SL2.IF1.ST1.IF1.ST2" />
         <Info Name="HWC_Revision" Value="2.2.0.0" />
         <Info Name="HWC_LastEdit" Value="21/09/2020 07:50:16" />
         <Info Name="AS_Name" Value="X20SLX402" />

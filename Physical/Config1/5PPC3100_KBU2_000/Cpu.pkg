@@ -19,7 +19,7 @@
     <Object Type="Package">mappCockpit</Object>
     <Object Type="Package">VC</Object>
   </Objects>
-  <Configuration ModuleId="4PPC70.0702-20B">
+  <Configuration ModuleId="5PPC3100.KBU0-000">
     <AutomationRuntime Version="C4.90" />
     <Build GccVersion="4.1.2" />
     <DefaultTargetMemory Tasks="UserROM" />
